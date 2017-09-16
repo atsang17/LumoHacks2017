@@ -38,3 +38,12 @@
 1. Increase accessibility of community based substance abuse treatment programs
 
 # __Time to go home__!!!
+
+### __SETUP__:
+1. make sure you are using python 3.6
+1. install virtualenv
+1. then go to the folder and run "virtualenv env"
+1. then run "source env/bin/activate"
+1. then run "pip install -r requirements.txt"
+1. to run the app just run "python run.py"
+1. to get out of the virtual environment just run "deactivate"
