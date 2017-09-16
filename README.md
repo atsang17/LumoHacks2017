@@ -1,9 +1,8 @@
-Substance Abuse:
-===========
+# __Substance Abuse__:
 ### Co-Ocurring disorders:
  this is a norm
 - __Theories__:
-    - both could have a single root (genetic, biological, neurological, social, environmenal)
+    - both could have a single root (genetic, biological, neurological, social, environmental)
     - Primary mental health disorder with secondary substance use
     - primary substance use disorder with secondary mental illness
 - __Problem__:
@@ -34,5 +33,8 @@ Substance Abuse:
         - there are biological barriers to full treatment
     - Both substance abuse and mental health is highly stigmatized
 
-### Hacks:
--
+### Hacks Things:
+1. develop a way for people with mental illness, who would like to reduce their use of substances, to identify track and the things in their lives that are accosciated with increased substance use
+1. Increase accessibility of community based substance abuse treatment programs
+
+# __Time to go home__!!!
