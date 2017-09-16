@@ -1,5 +1,6 @@
 from flask import jsonify
-from from flask_cors import cross_origin
+from flask_cors import cross_origin
+from app import app
 import requests
 import json
 
