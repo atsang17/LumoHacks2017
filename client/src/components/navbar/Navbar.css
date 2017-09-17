@@ -1,0 +1,14 @@
+.navbar-section {
+  background-color: #00688B;
+  margin: 0;
+  border: none;
+  border-radius: none;
+}
+
+.navbar-title {
+  font-family: 'Acme', sans-serif;
+  line-height: 2;
+  font-size: 52px;
+  font-weight: 500;
+  color: #ffffff;
+}

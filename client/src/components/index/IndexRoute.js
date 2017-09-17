@@ -1,9 +1,14 @@
 import React from 'react';
+import Navbar from '../navbar/Navbar';
+import Calendar from './calendar/Calendar'
 
 const Index = () => {
 
     return (
-      <div>Hello Nolan</div>
+      <div>
+        <Navbar />
+        <Calendar />
+      </div>
     );
 }
 
